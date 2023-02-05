@@ -1,0 +1,10 @@
+The programmers from Barcelona might write a sentence without a spell checker.
+The programmers from Barchelona cannot write a sentence without a spell checker.
+Jack London went to Parris. Jack London went to Paris.
+Bill gates and Steve jobs never though Microsoft would become such a big company.
+Bill Gates and Steve Jobs never though Microsof would become such a big company.
+The president of U.S.A though they could win the war.
+The president of the United States of America though they could win the war.
+The king of Saudi Arabia wanted total control. Robin does not want to go to Saudi Arabia. Apple is a great company.
+I really love apples and oranges.
+Alice and Henry went to the Microsoft store to buy a new computer during their trip to New York.
